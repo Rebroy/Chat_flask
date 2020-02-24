@@ -23,6 +23,6 @@ $ python main.py
 
 ```
 
-- Run chat (Clients) in Browsers. URL -> localhost:5000
+- Run chat (Clients) in Browsers. URL -> localhost:8080
 
 
